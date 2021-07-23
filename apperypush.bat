@@ -1,1 +1,0 @@
-curl -X POST -H "X-Appery-Push-API-Key:<pushAPIKey>" -H "Content-Type: application/json" -d '{"payload":{"message" : "hello world?"}}' https://api.appery.io/rest/push/msg
