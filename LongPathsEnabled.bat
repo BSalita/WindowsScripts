@@ -1,0 +1,1 @@
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Group Policy Objects\{48981759-12F2-42A6-A048-028B3973495F}Machine\System\CurrentControlSet\Policies\

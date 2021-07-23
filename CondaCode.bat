@@ -1,0 +1,1 @@
+call "%USERPROFILE%\Anaconda3\Scripts\activate.bat" %1 & "%USERPROFILE%\AppData\Local\Programs\Microsoft VS Code\Code.exe"

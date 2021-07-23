@@ -1,0 +1,1 @@
+"%PROGRAMFILES%\SyncTrayzor\syncthing" -reset-database

@@ -1,0 +1,1 @@
+dir $args[0] | Unblock-File
